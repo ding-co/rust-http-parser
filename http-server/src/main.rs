@@ -1,5 +1,4 @@
 use constants::SERVER_ADDRESS;
-use http::HttpRequest;
 use server::Server;
 
 mod constants;
